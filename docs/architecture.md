@@ -45,6 +45,7 @@ Runtime включает обычный вызов по времени и вос
 то же ядро принятия решений. Будущий лабораторный факт передается только оценщику после решения.
 
 ```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#ffffff","primaryTextColor":"#322d2a","primaryBorderColor":"#8a4d0f","secondaryColor":"#e7e5dd","tertiaryColor":"#f0efe9","lineColor":"#8b8b8b","textColor":"#322d2a","noteBkgColor":"#e7e5dd","noteTextColor":"#5a564e","actorBkg":"#ffffff","actorBorder":"#8a4d0f","fontFamily":"Inter"}}}%%
 flowchart TD
   S[CSV и XLSX: АВТ, ГО, ЛИМС, ПАК] --> D[Нормализация и временной срез]
   D --> A[Агент данных: доверие и достаточность]

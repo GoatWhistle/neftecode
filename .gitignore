@@ -21,7 +21,6 @@ node_modules/
 .env
 .env.*
 !.env.example
-.playwright-mcp/
 
 # Локальные инструкции, журналы и рабочие материалы; публичные документы — docs/research.
 /context/

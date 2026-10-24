@@ -18,7 +18,6 @@ context/
 scripts/
 .env
 .env.*
-.playwright-mcp/
 *.md
 !README.md
 docker-compose.yml

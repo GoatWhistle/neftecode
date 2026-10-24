@@ -4,7 +4,6 @@
 - [Команды и данные](commands.md): все команды CLI и какие данные нужны каждой.
 - [Архитектура](architecture.md) и [карта кода](code-tour.md).
 - [Конвейер решения](pipeline.md) и [сервисные контракты](services.md).
-- [Требования и ограничения](requirements-map.md).
 - [Уточнения организаторов](organizer-clarifications.md).
 - [Прогноз и доказательства качества](forecast-evidence.md).
 - [Модель отклика T6/F9](response-model.md).
